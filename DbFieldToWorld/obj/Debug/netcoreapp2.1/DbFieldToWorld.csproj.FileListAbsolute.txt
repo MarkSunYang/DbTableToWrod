@@ -1,0 +1,10 @@
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\bin\Debug\netcoreapp2.1\DbFieldToWorld.deps.json
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\bin\Debug\netcoreapp2.1\DbFieldToWorld.runtimeconfig.json
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\bin\Debug\netcoreapp2.1\DbFieldToWorld.runtimeconfig.dev.json
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\bin\Debug\netcoreapp2.1\DbFieldToWorld.dll
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\obj\Debug\netcoreapp2.1\DbFieldToWorld.csproj.CoreCompileInputs.cache
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\obj\Debug\netcoreapp2.1\DbFieldToWorld.AssemblyInfoInputs.cache
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\obj\Debug\netcoreapp2.1\DbFieldToWorld.AssemblyInfo.cs
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\bin\Debug\netcoreapp2.1\DbFieldToWorld.pdb
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\obj\Debug\netcoreapp2.1\DbFieldToWorld.dll
+F:\Project\VsProject\DbFieldToWorld\DbFieldToWorld\obj\Debug\netcoreapp2.1\DbFieldToWorld.pdb
